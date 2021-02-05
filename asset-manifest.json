@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/recruiting-lawyers/static/css/main.166ab9bb.chunk.css",
+    "main.js": "/recruiting-lawyers/static/js/main.294d20c6.chunk.js",
+    "main.js.map": "/recruiting-lawyers/static/js/main.294d20c6.chunk.js.map",
+    "runtime-main.js": "/recruiting-lawyers/static/js/runtime-main.8733f5b9.js",
+    "runtime-main.js.map": "/recruiting-lawyers/static/js/runtime-main.8733f5b9.js.map",
+    "static/js/2.4062d878.chunk.js": "/recruiting-lawyers/static/js/2.4062d878.chunk.js",
+    "static/js/2.4062d878.chunk.js.map": "/recruiting-lawyers/static/js/2.4062d878.chunk.js.map",
+    "index.html": "/recruiting-lawyers/index.html",
+    "static/css/main.166ab9bb.chunk.css.map": "/recruiting-lawyers/static/css/main.166ab9bb.chunk.css.map",
+    "static/js/2.4062d878.chunk.js.LICENSE.txt": "/recruiting-lawyers/static/js/2.4062d878.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8733f5b9.js",
+    "static/js/2.4062d878.chunk.js",
+    "static/css/main.166ab9bb.chunk.css",
+    "static/js/main.294d20c6.chunk.js"
+  ]
+}
